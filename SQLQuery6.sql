@@ -1,0 +1,1 @@
+delete from Register where Course ='msc'
